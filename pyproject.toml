@@ -1,6 +1,6 @@
 [project]
 name = "tessium"
-version = "0.0.1"
+version = "0.1.0"
 description = "Minimal WebSocket client for Tessium, the realtime Solana data API"
 readme = "README.md"
 requires-python = ">=3.10"
